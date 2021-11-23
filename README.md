@@ -1,9 +1,8 @@
-# Daily-Metaverse: 元宇宙日报
 Some information about the Metaverse.
 
 这是关于元宇宙的一些资料，个人分享，不喜勿扰。
 
-### 2021-11-19：
+# Daily-Metaverse: 元宇宙日报 - 2021-11-19
 
 - [Wikipedia - Metaverse]([Metaverse - Wikipedia](https://en.wikipedia.org/wiki/Metaverse))
 
@@ -36,10 +35,8 @@ Some information about the Metaverse.
   >
   > 对于已经沿用了多年的GTX前缀，NVIDIA终于在最新的GTX20系列有所改变了，高端的2080和2080TI统称为“RTX”，这里的“RT”就代表着光线追踪（ray tracing的缩写），象征着RTX2080显卡拥有非常强大的光线追踪性能。其实光线追踪技术本身并不新鲜，但是由于计算量需求庞大，往往为了渲染一帧图片都需要传统电脑消耗数个小时乃至数天的时间，但是RTX20显卡采用的“图灵”架构引入了RT计算单元，使其光线追踪性能超越上一代显卡的六倍，拥有了即时处理游戏光追的条件，NVIDIA认为这是一个划时代的进化，于是果断把沿用多年的“GTX”改名为“RTX”。
 
-### Others：
-
 - [GitHub - M3-org/awesome-metaverse: Awesome metaverse projects](https://github.com/M3-org/awesome-metaverse)
+
 - [GitHub - houbb/awesome-metaverse-zh](https://github.com/houbb/awesome-metaverse-zh)
 
 - [GitHub - shadowcz007/awesome-metaverse](https://github.com/shadowcz007/awesome-metaverse)
-
