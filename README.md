@@ -2,7 +2,7 @@ Some information about the Metaverse.
 
 这是关于元宇宙的一些资料，个人分享，不喜勿扰。
 
-# Daily-Metaverse: 元宇宙日报 - 2021-11-19
+# Daily-Metaverse: 元宇宙日报@2021-11-19
 
 - [Wikipedia - Metaverse]([Metaverse - Wikipedia](https://en.wikipedia.org/wiki/Metaverse))
 
