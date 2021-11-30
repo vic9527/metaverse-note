@@ -44,7 +44,7 @@ Some information about the Metaverse.
 
 
 
-### 开发
+### 开发与研究
 
 - [NVIDIA Omniverse | 一款强大的实时协作模拟平台](https://zhuanlan.zhihu.com/p/358915039)
 
@@ -56,8 +56,6 @@ Some information about the Metaverse.
 
 - [一个普通摄像头就让二次元老婆“活”了过来，网友：求收费](https://mp.weixin.qq.com/s/fr620nsNtkj4KyF50IKO7w)
 
-### 研究
-
 - [元宇宙（Metaverse）的关键技术挑战和机会有哪些？](https://www.zhihu.com/question/461140182)
 
   > 在元宇宙中，数字人/数字化身可能会成为人们在虚拟世界行动或部署虚拟世界人物的重要载体，而虚拟环境的真实度无时无刻不影响着视觉与互动体验，通用平台或“语言”则能为建造者的交流沟通与体验者的资产互换提供更多便利。因此，能够提高虚拟世界真实度的**数字人**、**数字孪生**和**实时渲染**技术，以及能够连接世界各地的设备和人员的**通用平台**可能会成为关键技术挑战。
@@ -65,7 +63,7 @@ Some information about the Metaverse.
   > 作者：NVIDIA英伟达中国
   > 链接：https://www.zhihu.com/question/461140182/answer/2113403826
 
-### 资源
+### 资源大全
 
 - [GitHub - M3-org/awesome-metaverse: Awesome metaverse projects](https://github.com/M3-org/awesome-metaverse)
 
@@ -73,7 +71,7 @@ Some information about the Metaverse.
 
 - [GitHub - shadowcz007/awesome-metaverse](https://github.com/shadowcz007/awesome-metaverse)
 
-### 科普
+### 科普入门
 
 - [Wikipedia - Metaverse]([Metaverse - Wikipedia](https://en.wikipedia.org/wiki/Metaverse))
 
