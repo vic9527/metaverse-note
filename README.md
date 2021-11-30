@@ -73,7 +73,7 @@ Some information about the Metaverse.
 
 ### 科普入门
 
-- [Wikipedia - Metaverse]([Metaverse - Wikipedia](https://en.wikipedia.org/wiki/Metaverse))
+- [Wikipedia - Metaverse](https://en.wikipedia.org/wiki/Metaverse)
 
 - [百度百科 - 元宇宙](https://baike.baidu.com/item/元宇宙/58292530)
 
