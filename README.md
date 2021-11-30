@@ -4,7 +4,7 @@ Some information about the Metaverse.
 
 这是关于元宇宙的一些资料，个人分享，不喜勿扰。
 
-### 探索
+### 探索与思考
 
 - [腾讯B站纷纷入局，虚拟人热火朝天！谁才是真元宇宙入口？](https://mp.weixin.qq.com/s/qjaJEHKjeOXgXE0cdTm9Nw)
 
@@ -12,26 +12,35 @@ Some information about the Metaverse.
 
 - [元宇宙当代考](https://mp.weixin.qq.com/s/BZdjiVe9n0vvj-QbNQQKSw)
   > 元宇宙的底层由基础设施与终端硬件设备组成包括但不限于：人机交互、设计工具、游戏渲染、画面渲染、隐私计算、AI、工业互联网、智能合约等等。在此基础上，元宇宙还需要大量的软件与技术协同，包括但不限于：5G、6G、云计算、区块链节点、边缘计算节点、DPU等。在用户端需要路由器、传感器、芯片、VR 头显、显示器等必备硬件。基于这些载体之上，元宇宙才可以衍生出相应的应用，并基于元宇宙各类应用进而发展出潜在的内容载体。技术端、内容端、载体端的相互配合是如何呈现元宇宙的关键。
-
+  > 
   > 技术端，区块链技术在不断演进，以以太坊为代表的社区在探索区块链应用如何丰富化，以Coinbase、Opesea 为代表的交易所也在为区块链经济提供更好的交易能力。
-
+  > 
   > 内容端，元宇宙概念的游戏不断增加，生态不断加强，用户数也随之增长。以 Roblox、Sandbox为代表的 UGC 元宇宙概念游戏得益于玩家的参与而不断丰富自己游戏的内容。
-
+  > 
   > 载体端，通信技术、虚拟现实、芯片等底层技术也在不断演进。
+  > 
+  > 在这三端的相互配合上，其中一环出现了弱势，可能会伴随着短板效应给用户的元宇宙体验带来毁灭性的影响。这也一定程度上能解释当下的VR热潮。VR可能是限制进入元宇宙时代的第一个门槛。
 
+- [元宇宙不是下一代互联网，而是人类群体思维空间或梦境世界的具现](https://mp.weixin.qq.com/s/sit0Zz8oRnoVr-Cds2IIUg)
 
-### 应用
+- [20年前就有元宇宙了，是什么让它今天才火？| 深度](https://mp.weixin.qq.com/s/4pzwzkzZnLuwRaAxk-8GHA)
 
+- [体验完“元宇宙入口”，我有点晕](https://mp.weixin.qq.com/s/6v6TnQTEwaJr4iHh7rtVXQ)
 
+- [元宇宙收割者已经图穷匕见](https://mp.weixin.qq.com/s/h2VLxCamuI_4VOOOCgWShw)
 
+- [元宇宙，什么鬼？](https://mp.weixin.qq.com/s/5qwcvtJWa7FIOCK9EHhu5w)
+  > Roblox是第一个将“元宇宙”写进招股说明书的公司，它的上市在资本市场上掀起了元宇宙旋风。Roblox的CEO戴夫·巴斯祖克提出元宇宙的八个元素：身份、朋友、沉浸感、低延迟、多元化、随时随地、经济系统和文明。但是，我们主要看他们在做什么。
 
+- [清华元宇宙深度报告！理论框架产业真相一文看懂，揭秘十大风险【附下载】| 智东西内参](https://mp.weixin.qq.com/s/_pjgpZi3tPCKe_IEv0Ce-A)
 
+- [清华大学：2021元宇宙研究报告！](https://mp.weixin.qq.com/s/TDX0HeeYF8dXXtigPIXxJQ)
 
+### 虚拟人
 
+- [数字孪生时代，崛起的虚拟人](https://mp.weixin.qq.com/s/rlKhGjFuGZemynt-74dZUQ)
 
-
-在这三端的相互配合上，其中一环出现了弱势，可能会伴随着短板效应给用户的元宇宙体验带来毁灭性的影响。这也一定程度上能解释当下的VR热潮。VR可能是限制进入元宇宙时代的第一个门槛。
-
+  > 在描述虚拟人这一趋势时，百度研究院在前述报告中写道“结合3D建模、情绪识别、智能推荐等多种技术打造的虚拟人可以看、听、说，还能与人自然交流。2021年，数字人、虚拟人的生产门槛将进一步降低”。
 
 
 
@@ -44,6 +53,8 @@ Some information about the Metaverse.
 - [元宇宙下的前端现状](https://mp.weixin.qq.com/s/f8xWqhSYG6BPIvg2SDGS_A)
 
 - [结合PaddlePaddle 和 Wechaty 创造自己的聊天机器人](https://github.com/27182812/paddle-wechaty-Zodiac)
+
+- [一个普通摄像头就让二次元老婆“活”了过来，网友：求收费](https://mp.weixin.qq.com/s/fr620nsNtkj4KyF50IKO7w)
 
 ### 研究
 
@@ -74,7 +85,13 @@ Some information about the Metaverse.
   >
   > ———数字资产研究院学术与技术委员会主任朱嘉明教授
 
+- [什么是元宇宙？为何要关注它？](https://mp.weixin.qq.com/s/VLrBlPS1gcUJqajTREE9HQ)
+
 ### 其他
 
 - [这个头显有助于患者将思想转化为文字，未来要接入元宇宙 | CyberDaily](https://mp.weixin.qq.com/s/3SexwunbDwlJ39Ahe-AZ0Q)
+
+- [腾讯再次注资元宇宙，联合领投国际隔空触觉技术公司，D轮融资超5.2亿元](https://mp.weixin.qq.com/s/0hEGfYbz5dqBra2mhvx7Jg)
+
+- [解码讯飞再登世界第一技术底气，进军虚拟人赛道构建立体AI生态](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649647220&idx=2&sn=c0ce38834de0821df36a7fd8a7a2c97c)
 
