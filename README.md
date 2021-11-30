@@ -85,6 +85,8 @@ Some information about the Metaverse.
 
 - [什么是元宇宙？为何要关注它？](https://mp.weixin.qq.com/s/VLrBlPS1gcUJqajTREE9HQ)
 
+- [漫画：什么是 “元宇宙” ？](https://mp.weixin.qq.com/s/IkNB2tvyXu97kQ7uBRu5WA)
+
 ### 其他
 
 - [这个头显有助于患者将思想转化为文字，未来要接入元宇宙 | CyberDaily](https://mp.weixin.qq.com/s/3SexwunbDwlJ39Ahe-AZ0Q)
