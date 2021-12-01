@@ -36,6 +36,22 @@ Some information about the Metaverse.
 
 - [清华大学：2021元宇宙研究报告！](https://mp.weixin.qq.com/s/TDX0HeeYF8dXXtigPIXxJQ)
 
+- [元宇宙是什么？普通人有什么机会？](https://mp.weixin.qq.com/s?__biz=MjM5ODIyMTE0MA==&mid=2650978676&idx=1&sn=fd46cbc44adfb158d4119c2873e24668)
+
+- [元宇宙：没那么诱惑，也没那么危险](https://mp.weixin.qq.com/s/_GAIaWLF1gIilAjgbEddeA)
+
+  > 翟志勇说，不用太在意元宇宙这个词是怎么样，元宇宙是对于我们在数字空间中新的存在方式的一种想象，未来有可能有各种版本的元宇宙，因此它代表着人类在数字空间各种各样可能的生存方式。
+
+- [元宇宙居然也在搞地产，价格也很离谱](https://mp.weixin.qq.com/s/CODm7mu50bqMhd2DAnU_zg)
+
+  > 11月23日，在虚拟平台decentraland上，一块约565.8平方米的数字土地卖到了243万美元，约人民币1552万元。
+
+- [“元宇宙”爆火，人类将成两栖物种？](https://mp.weixin.qq.com/s/Al6nEbmrrkQ9G78JhF1xyw)
+
+- [我们不需要元宇宙](https://www.huxiu.com/article/474210.html)
+
+
+
 ### 虚拟人
 
 - [数字孪生时代，崛起的虚拟人](https://mp.weixin.qq.com/s/rlKhGjFuGZemynt-74dZUQ)
@@ -45,6 +61,8 @@ Some information about the Metaverse.
 - [2020年虚拟数字人发展白皮书](https://mp.weixin.qq.com/s/P4iJFRvKahZ2uXCwVkL7eg)
 
   > 虚拟数字人是指具有数字化外形的虚拟人物。与具备实体的机器人不同，虚拟数字人依赖显示设备存在。虚拟数字人宜具备以下三方面特征：一是拥有人的外观，具有特定的相貌、性别和性格等人物特征；二是拥有人的行为，具有用语言、面部表情和肢体动作表达的能力；三是拥有人的思想，具有识别外界环境、并能与人交流互动的能力。
+
+
 
 ### 开发与研究
 
@@ -65,6 +83,8 @@ Some information about the Metaverse.
   > 作者：NVIDIA英伟达中国
   > 链接：https://www.zhihu.com/question/461140182/answer/2113403826
 
+
+
 ### 资源大全
 
 - [GitHub - M3-org/awesome-metaverse: Awesome metaverse projects](https://github.com/M3-org/awesome-metaverse)
@@ -72,6 +92,8 @@ Some information about the Metaverse.
 - [GitHub - houbb/awesome-metaverse-zh](https://github.com/houbb/awesome-metaverse-zh)
 
 - [GitHub - shadowcz007/awesome-metaverse](https://github.com/shadowcz007/awesome-metaverse)
+
+
 
 ### 科普入门
 
@@ -89,6 +111,8 @@ Some information about the Metaverse.
 
 - [漫画：什么是 “元宇宙” ？](https://mp.weixin.qq.com/s/IkNB2tvyXu97kQ7uBRu5WA)
 
+
+
 ### 其他
 
 - [这个头显有助于患者将思想转化为文字，未来要接入元宇宙 | CyberDaily](https://mp.weixin.qq.com/s/3SexwunbDwlJ39Ahe-AZ0Q)
@@ -96,4 +120,10 @@ Some information about the Metaverse.
 - [腾讯再次注资元宇宙，联合领投国际隔空触觉技术公司，D轮融资超5.2亿元](https://mp.weixin.qq.com/s/0hEGfYbz5dqBra2mhvx7Jg)
 
 - [解码讯飞再登世界第一技术底气，进军虚拟人赛道构建立体AI生态](https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA==&mid=2649647220&idx=2&sn=c0ce38834de0821df36a7fd8a7a2c97c)
+
+- [是科幻还是现实？投资39亿韩元，韩国首尔想要成为“元宇宙城市”，还发布了“5年计划”](https://mp.weixin.qq.com/s/YMw_fdSL8xexqMXjCL2IPQ)
+
+- [元宇宙成为新风口 蹭热点、撇清关系、认真发力的上市公司分别有哪些？](https://mp.weixin.qq.com/s/XNGaHokDF1vfAUMsAt0oNg)
+
+- [张一鸣 90 亿大手笔买下一家 VR 公司，字节跳动“跳”进元宇宙](https://www.infoq.cn/article/vLU4N8VpiMyusvizyM6r)
 
